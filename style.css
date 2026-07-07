@@ -130,11 +130,6 @@ label{
     bottom: 30px;
 }
 
-.parametro-senha-textos {
-    display: flex;
-    justify-content: space-between;
-}
-
 .media{
     height: 30px;
     width: 50%;
@@ -149,6 +144,11 @@ label{
     background-color: #00FF85;
     position: relative;
     bottom: 30px;
+} 
+
+.parametro-senha-textos {
+    display: flex;
+    justify-content: space-between;
 }
 
 @media screen and (min-width: 768px) {
