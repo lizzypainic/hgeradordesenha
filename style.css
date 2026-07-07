@@ -96,7 +96,7 @@ body{
     border: 2px solid var(--borda);
     padding: 24px;
     font-size: 24px;
-    cursor: pointer;
+    cursor:pointer;
 }
 .parametro-senha__texto{
     padding: 24px;
@@ -113,7 +113,7 @@ label{
 .checkbox{
     width: 20px;
     height: 20px;
-    cursor: pointer;
+    cursor:pointer;
 }
 
 @media screen and (min-width: 768px) {
